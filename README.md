@@ -20,4 +20,4 @@ Use this to learn more about Harness CD & GitOps in your own Harness account, or
 | [sock-shop](sock-shop/) | A microservices demo app (https://microservices-demo.github.io) |
 | [plugins](plugins/) | Apps which demonstrate config management plugins usage |
 | [blue-green](blue-green/) | Demonstrates how to implement blue-green deployment using Harness CD|
-| [apps](apps/) | An app composed of other apps |
+| [apps](apps/) | An app composed of other apps | --
