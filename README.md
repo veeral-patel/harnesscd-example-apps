@@ -4,6 +4,8 @@ This repository contains example applications for demoing Harness CD & GitOps fu
 
 Use this to learn more about Harness CD & GitOps in your own Harness account, or fork this repo and push your own commits!
 
+## TOC
+
 | Application | Description |
 |-------------|-------------|
 | [guestbook](guestbook/) | A hello word guestbook app as plain YAML |
